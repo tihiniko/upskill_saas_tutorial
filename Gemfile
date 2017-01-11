@@ -29,6 +29,7 @@ gem 'jbuilder', '2.5.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Use Twitter bootstrap library for front-end UI and layout
 gem 'bootstrap-sass', '3.3.7'
 
 group :development, :test do
