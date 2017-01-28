@@ -12,4 +12,4 @@ and should send card info to stripe
 should validate the user fields. Rails app will note whether plan 1 or plan 2
 *Once validated Rails should send user info (email, plan id, and card token 
 to Stripe server and Stripe will create a subscription and send back customer 
-token. Rails should save customer token and user information to our database
+token. Rails should save customer token and user information to our database.
